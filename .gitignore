@@ -1,0 +1,7 @@
+#dont track changes in following folders
+wrist/
+wrist_data/
+filter_repo/
+
+# generated files
+*.npy
