@@ -5,3 +5,7 @@ filter_repo/
 
 # generated files
 *.npy
+*.p
+*.docx
+*.h5
+
