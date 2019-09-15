@@ -2,10 +2,12 @@
 wrist/
 wrist_data/
 filter_repo/
+.ipynb_checkpoints/
 
 # generated files
 *.npy
 *.p
 *.docx
 *.h5
+
 
