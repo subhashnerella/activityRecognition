@@ -9,5 +9,5 @@ filter_repo/
 *.p
 *.docx
 *.h5
-
+.fuse*
 
